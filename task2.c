@@ -8,7 +8,7 @@ printf("enter range (x,y) :");
 scanf("%d%d",&x,&y);
 
 printNumbers(x,y);
-
+// this print the range 
 }
 void printNumbers(int x, int y)
 {
